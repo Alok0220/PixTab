@@ -1,2 +1,2 @@
-include 'Person'
+include 'Member'
 include 'Gateway'
